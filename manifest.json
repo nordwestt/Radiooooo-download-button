@@ -13,8 +13,8 @@
             "content.js"
           ],
           "matches": [
-            "http://radiooooo.com/*",
-            "https://radiooooo.com/*"
+            "http://app.radiooooo.com/*",
+            "https://app.radiooooo.com/*"
           ]
         }
     ], 
