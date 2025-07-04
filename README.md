@@ -1,6 +1,8 @@
 # Radiooooo download button
 Adds a download button to [Radiooooo](https://radiooooo.com/)
 
+Install the extension [here](https://chromewebstore.google.com/detail/falplhjhdjliobhdpamajpdnnnoenjdh?utm_source=item-share-cb)
+
 ## Description
 I've discovered a lot of gems on Radiooooo and have many times wished I could save them. This extension allows for exactly that by adding a download button next to the 'play' and 'skip' buttons.
 Enjoy! 😊
